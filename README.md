@@ -1,6 +1,7 @@
 # E-Commerce API Demo
 
-Please add "*visite.local*" to your host file.
+Please add "*visite.local*" to your host file.<br>
+You must copy .env.example file as .env
 
 And run to build images:
     
